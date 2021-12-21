@@ -7,7 +7,7 @@ exports[`App.js スナップショット 新規登録の場合 1`] = `
   <header
     className="App-header"
   >
-    Newwer
+    新規登録
   </header>
 </div>
 `;
@@ -19,7 +19,7 @@ exports[`App.js スナップショット 更新の場合 1`] = `
   <header
     className="App-header2"
   >
-    Update
+    更新
   </header>
 </div>
 `;
